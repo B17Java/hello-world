@@ -3,7 +3,7 @@ import com.level3.b17.Creater;
 public class HelloWorld1 {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-
+        System.out.println("it`s boaring, guys");
         Creater.make();
 
 }

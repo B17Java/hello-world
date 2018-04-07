@@ -11,6 +11,9 @@ public class HelloWorld1 {
         Human st2 = new Human("Aleksey", "Shchehlov");
         st2.setEmail("alexey8800@gmail.com");
         st2.setPhone("+380931685958");
+        Human st3 = new Human("Volodymyr", "Grinchenko");
+        st3.setEmail("vlad5855051@gmail.com");
+        System.out.println(st3);
 
     }
 }

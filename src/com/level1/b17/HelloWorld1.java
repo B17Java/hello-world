@@ -1,4 +1,5 @@
 package com.level1.b17;
+
 import com.level3.b17.Creater;
 import com.level4.b17.Iryna;
 
@@ -16,6 +17,7 @@ public class HelloWorld1 {
         System.out.println(st2);
         Human st3 = new Human("Volodymyr", "Grinchenko");
         st3.setEmail("vlad5855051@gmail.com");
+        st3.setPhone("+380675855051");
         System.out.println(st3);
         Human st4 = new Human("Iryna", "Pfeiffer");
         st4.setEmail("iryna.pfeiffer@gmail.com");

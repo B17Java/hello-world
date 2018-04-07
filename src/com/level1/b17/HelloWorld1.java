@@ -8,6 +8,9 @@ public class HelloWorld1 {
         st1.setEmail("okuzmenkoa@gmail.com");
         System.out.println(st1);
 
+        Human st2 = new Human("Aleksey", "Shchehlov");
+        st2.setEmail("alexey8800@gmail.com");
+        st2.setPhone("+380931685958");
 
     }
 }
